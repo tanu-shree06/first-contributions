@@ -19,6 +19,7 @@
 - [Amit Kumar](https://github.com/AK-Amit-Kumar)
 - [Rafael Severo](https://github.com/rafaeumesmo) 
 - [LayorX](https://github.com/LayorX)
+- [Tanushree Sundar] - my  first github!
 - [Benja] - Hello!
 - [Suhaib] - (https://github.com/Suhaib536)
 - [Bhavana]
